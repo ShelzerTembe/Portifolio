@@ -26,10 +26,15 @@ Desenvolvimento Web e Programação: W3CSchools
 **Consultor de Recursos Humanos e Tecnologia**
 Business Diversity Consultoria Empresarial, SA
 _2020 á 2023_
-*  das plataformas digitais da Empresa;
-* 
-* 
-* 
+
+**Principais responsabilidades:**
+* Administrar todas plataformas digitais da Empresa;
+* Elaborar o layout e design de documentos; 
+* Elaborar propostas para concursos e Serviços;
+* Implementar sistemas de RH no cliente;
+* Elaborar Contratos de trabalho;
+* Negociar com fornecedores de serviços;
+* Participar em reuniões.
 
 **Principais projectos externos:**
 * Auditoria em RH - **Importadora Moçambicana de petróleos (IMOPETRO)**
@@ -42,6 +47,9 @@ _2020 á 2023_
 * Administração de plataforma de RH - **Importadora Moçambicana de petróleos (IMOPETRO).**
 * Suporte e Assistência Técnica - **Importadora Moçambicana de petróleos (IMOPETRO).**
 
+**Outros Projectos:**
+* Implentação de Sistema de Gestão - **Emapri Comercial ,Lda**;
+*
 
 ### Como Entrar em Contacto
 Estou aberto a colaborações, discussões e novas oportunidades. Entre em contacto comigo através do e-mail [shelzer.tembe@bsiversity.co.mz] ou conecte-se comigo no [LinkedIn](in/shelzer-tembe-0a6648215).
