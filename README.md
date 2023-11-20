@@ -49,7 +49,8 @@ _2020 á 2023_
 
 **Outros Projectos:**
 * Implentação de Sistema de Gestão - **Emapri Comercial ,Lda**;
-*
+* Elaboração de Documentos - **Escola Privada Mundo de Jesus**;
+* Transmissão de reuniões.
 
 ### Como Entrar em Contacto
 Estou aberto a colaborações, discussões e novas oportunidades. Entre em contacto comigo através do e-mail [shelzer.tembe@bsiversity.co.mz] ou conecte-se comigo no [LinkedIn](in/shelzer-tembe-0a6648215).
