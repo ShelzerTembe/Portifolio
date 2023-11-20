@@ -23,8 +23,8 @@ Sou um profissional dedicado, especializado na integração de estratégias de R
 * __Desenvolvimento Web e Programação:__ W3CSchools, Curso em Video.
 
 ### Experiência Profissional
-**Consultor de Recursos Humanos e Tecnologia**
-* Business Diversity Consultoria Empresarial, SA
+**Consultor de Recursos Humanos e Tecnologia**  
+Business Diversity Consultoria Empresarial, SA  
 _2020 á 2023_
 
 **Principais responsabilidades:**
