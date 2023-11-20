@@ -18,9 +18,9 @@ Sou um profissional dedicado, especializado na integração de estratégias de R
 * __Gestão de Lojas em Talhos:__ Criação de versões digitais de lojas, configuração de painéis de controlo e formação de colaboradores.
 
 ### Educação
-RH Digital: Digital Education Group South Africa.
-Direito (Em curso): Universidade Wutivi.
-Desenvolvimento Web e Programação: W3CSchools
+* RH Digital: Digital Education Group South Africa.
+* Direito (Em curso): Universidade Wutivi.
+* Desenvolvimento Web e Programação: W3CSchools
 
 ### Experiência Profissional
 **Consultor de Recursos Humanos e Tecnologia**
