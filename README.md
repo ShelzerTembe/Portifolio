@@ -18,9 +18,9 @@ Sou um profissional dedicado, especializado na integração de estratégias de R
 * __Digitalização de Lojas:__ Criação de versões digitais de lojas, configuração de painéis de controlo e formação de colaboradores.
 
 ### Educação
-* RH Digital: Digital Education Group South Africa.
-* Direito (Em curso): Universidade Wutivi.
-* Desenvolvimento Web e Programação: W3CSchools
+* __RH Digital:__ Digital Education Group South Africa.
+* __Direito (Em curso):__ Universidade Wutivi.
+* __Desenvolvimento Web e Programação:__ W3CSchools, Curso em Video.
 
 ### Experiência Profissional
 **Consultor de Recursos Humanos e Tecnologia**
