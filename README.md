@@ -15,7 +15,7 @@ Sou um profissional dedicado, especializado na integração de estratégias de R
 * __Implementação de Sistema Digital de Avaliação de Desempenho:__ Liderança na implementação de sistema digital de Recursos Humanos (Avalição de Desempenho e Classificação de cargos).
 * __Formação e Desenvolvimento:__ Facilitação de programas de formação em salas com mais de trinta colaboradores presencias e dez remotos á médias empresas moçambicanas.
 * __Administração de Plataforma e Assistência Técnica:__ Experiência sólida em manter plataformas tecnológicas eficientes e fornecer assistência técnica quando necessário.
-* __ Digitalização de Lojas:__ Criação de versões digitais de lojas, configuração de painéis de controlo e formação de colaboradores.
+* __Digitalização de Lojas:__ Criação de versões digitais de lojas, configuração de painéis de controlo e formação de colaboradores.
 
 ### Educação
 * RH Digital: Digital Education Group South Africa.
