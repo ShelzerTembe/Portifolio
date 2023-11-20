@@ -24,7 +24,7 @@ Sou um profissional dedicado, especializado na integração de estratégias de R
 
 ### Experiência Profissional
 **Consultor de Recursos Humanos e Tecnologia**
-Business Diversity Consultoria Empresarial, SA
+* Business Diversity Consultoria Empresarial, SA
 _2020 á 2023_
 
 **Principais responsabilidades:**
