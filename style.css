@@ -23,3 +23,30 @@
     margin: 0px;
     padding: 0px;
 }
+
+body{
+    font-family: var(--fonte-destaque);
+}
+
+header{
+    background-image: linear-gradient(to bottom, var(--cor2),var(--cor3), var(--cor30));
+}
+header>h1{
+    background-color: var(--cor5);
+    font-family: var(--fonte-destaque);
+    color: var(--cor1);
+    padding: 8px;
+    font-size: medium;
+}
+
+nav{
+    background-color: var(--cor5);
+    padding: 8px;
+}
+
+nav>a{
+    font-family: var(--fonte-destaque);
+    color: var(--cor1);
+    text-decoration: none;
+
+}
