@@ -1,7 +1,7 @@
 # Portifolio
 
 ## Shelzer Tembe - Portefólio
-Sudações, Agradeço por explorar o meu portefólio! Eu sou **Shelzer Tembe**, um Consultor de Recursos Humanos e Tecnologia apaixonado por impulsionar o sucesso organizacional através de soluções inovadoras. Aqui está um resumo abrangente da minha jornada, competências e conquistas.
+Saudações, Agradeço por explorar o meu portefólio! Eu sou **Shelzer Tembe**, um Consultor de Recursos Humanos e Tecnologia apaixonado por impulsionar o sucesso organizacional através de soluções inovadoras. Aqui está um resumo abrangente da minha jornada, competências e conquistas.
 
 ### Sobre Mim
 Sou um profissional dedicado, especializado na integração de estratégias de Recursos Humanos e Tecnologia para impulsionar o desempenho organizacional. A minha abordagem combina conhecimentos sólidos em RH, tecnologia e direito para oferecer soluções abrangentes e eficazes.
