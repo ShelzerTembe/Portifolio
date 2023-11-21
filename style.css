@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @font-face {
-    font-family:'android';
-    src: url(../fontes/idroid.otf) format('opentype');
+    font-family:'computer';
+    src: url(fontes/COMPUTERRobot.ttf) format('truetype');
 }
 
 
@@ -16,7 +16,7 @@
     --cor5:#2D2D33;
     --fonte-padrao: Arial, Verdana, Helvetica,sans-serif;
     --fonte-destaque:'Bebas Neue', sans-serif;
-    --font-android:'android', sans-serif;
+    --font-computer:'computer', sans-serif;
 }
 
 *{
@@ -36,7 +36,6 @@ header{
 }
 header>h1{
     background-color: var(--cor5);
-    font-family: var(--fonte-destaque);
     color: var(--cor1);
     padding: 8px;
     font-size: medium;
@@ -89,6 +88,7 @@ nav>a:hover{
 article h2{
     background-image: linear-gradient(to right,rgba(0, 0, 255, 0.247), transparent);
     margin: 20px;
+    font-family: var(--font-computer);
 }
 
 article{
