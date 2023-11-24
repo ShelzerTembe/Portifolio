@@ -26,9 +26,14 @@
                 <h4 class="header-subtitle" >Olá, Sou</h4>
                 <h1 class="header-title">Shelzer Tembe</h1>
                 <h6 class="header-mono" >Consultor de Recursos Humanos e Tecnologia</h6>
-                <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Imprimir o Resumo</button>
+                <button class="btn btn-primary btn-rounded" onclick="imprimirPagina()"><i class="ti-printer pr-2"></i>Imprimir o Resumo</button>
             </div>
         </div>
+        <script>
+            function imprimirPagina() {
+                window.print();
+            }
+        </script>
     </header>
     <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white" data-spy="affix" data-offset-top="510">
         <div class="container">
