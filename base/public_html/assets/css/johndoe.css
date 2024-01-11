@@ -51,9 +51,17 @@
 }
 #voltr{
 margin-bottom: 30px;
+margin-top: 30px;
+margin-left: 10px;
+}
+.dl{
+margin-bottom: 30px;
+margin-left: 20px;
 }
 #btnh1{
-  margin: auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  margin-left: 10px;
 }
 
 .size{
