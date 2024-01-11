@@ -24,6 +24,7 @@
     </style>
   </head>
   <body>
+    <button id="voltr" class="btn-outline-danger">
     <div class="content-holder">
         <h4 class="title">Em Tempos de Desafio</h4>
 
@@ -35,7 +36,7 @@
         <p>O mercado de trabalho, antes caracterizado por sua previsibilidade relativa, tornou-se um campo de constantes mudanças e ajustes. Empresas que previamente resistiam à ideia do trabalho remoto foram forçadas a reavaliar suas práticas, adotando modelos mais flexíveis. À medida que o teletrabalho tornou-se a norma, vi emergir a necessidade premente de desenvolver habilidades digitais e uma compreensão mais profunda das dinâmicas virtuais de colaboração. Aprendi que a capacidade de se adaptar a essas mudanças é uma competência essencial em um ambiente que continua a evoluir rapidamente.</p>
     
         <p>No meu percurso de aprendizagem, participei ativamente em cursos e workshops que abordam tanto competências técnicas quanto habilidades interpessoais. A digitalização acelerada dos processos de trabalho destacou a importância de compreender não apenas as ferramentas tecnológicas, mas também a maneira como as interações humanas evoluem no ambiente virtual. Desenvolver uma comunicação eficaz através de meios digitais tornou-se uma prioridade, pois a capacidade de construir conexões significativas à distância revelou-se crucial em ambientes profissionais remotos.</p>
-    
+        <div id="hide">
         <p>Ao considerar o contexto específico de Moçambique, minha terra natal, percebi que a pandemia acentuou ainda mais as disparidades já existentes no acesso à tecnologia e oportunidades educacionais. Este insight reforçou a minha convicção de que o conhecimento e as habilidades adquiridas devem ser aplicados de maneira significativa para contribuir para o desenvolvimento inclusivo. Assumi o compromisso de explorar como a tecnologia pode ser uma força transformadora, especialmente em países em desenvolvimento.</p>
     
         <p>No âmbito académico, iniciei um curso de Direito, uma decisão aparentemente surpreendente considerando minha trajetória anterior em tecnologia. Contudo, essa escolha reflete uma aspiração profunda de compreender melhor as estruturas legais que moldam a sociedade. Acredito que a interseção entre a tecnologia e o direito é um campo em rápido crescimento e que uma compreensão sólida de ambos é essencial para enfrentar os desafios complexos do século XXI.</p>
@@ -44,6 +45,19 @@
     
         <p>A aprendizagem contínua, ancorada na esperança de um futuro mais resiliente e justo, tornou-se a essência do meu percurso. A capacidade de adaptar-me a mudanças, aprender novas competências e manter uma visão otimista, mesmo nas circunstâncias mais desafiadoras, define a minha abordagem. Acredito firmemente que, ao aplicar os conhecimentos adquiridos e as habilidades desenvolvidas, posso contribuir significativamente para moldar um ambiente profissional e social mais robusto, inclusivo e preparado para enfrentar os desafios do amanhã. Este é o compromisso que trago comigo enquanto navego pelas águas incertas, confiante de que cada desafio é uma oportunidade para crescimento e impacto positivo.</p>
     </div>
+  </div>
+    <button id="btnh1" class="btn-primary" type="button" onclick="mostrarTexto()">>>>></button>
+    <script>
+      function mostrarTexto() {
+        var ap = document.getElementById("hide");
+        if (ap.style.display === "none") {
+          ap.style.display = "block";
+        } else {
+          ap.style.display = "none";
+        }
+      }
+
+      </script>
   </body>
   </html>
   

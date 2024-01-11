@@ -15,6 +15,7 @@
     </style>
   </head>
   <body>
+    <button id="voltr" class="btn-outline-danger">
     <div class="content-holder">
         <h4 class="title">Em Tempos de Desafio</h4>
 
@@ -28,14 +29,28 @@
     <p>Ao longo do curso, explorei recursos avançados destinados a otimizar processos, desde a aquisição de talentos até o desenvolvimento profissional contínuo. Compreendi a importância vital da automação na gestão de dados, proporcionando uma visão holística das necessidades e desempenho dos colaboradores. Aprofundando-me em sistemas de análise preditiva, destaquei-me na antecipação de tendências e necessidades, permitindo tomadas de decisão mais informadas.</p>
 
     <p>Além disso, a formação abordou minuciosamente as dinâmicas da gestão de talentos em ambientes digitais. Aprendi a utilizar plataformas inovadoras para avaliação de desempenho, gestão de competências e criação de ambientes de aprendizagem virtuais. Essas competências foram fundamentais para aprimorar a eficácia das práticas de Recursos Humanos na Business Diversity Consultoria Empresarial SA, elevando a experiência dos colaboradores e contribuindo para a maximização do potencial humano na organização.</p>
-
+    <div id="hide">
     <p>A integração da tecnologia nos Recursos Humanos revelou-se não apenas como uma necessidade imperativa, mas como um catalisador estratégico para o desenvolvimento sustentável das organizações. O curso proporcionou-me uma visão abrangente das práticas inovadoras, destacando como a digitalização pode impulsionar a eficiência, promover a inclusão e otimizar o gerenciamento de talentos.</p>
 
     <p>Este conhecimento não apenas influenciou minhas práticas diárias na consultoria, mas também fortaleceu minha visão sobre o papel transformador que os Recursos Humanos digitais podem desempenhar em organizações contemporâneas. Ao compreender a interseção entre tecnologia e gestão de pessoas, percebo o potencial de criar ambientes de trabalho mais flexíveis, adaptáveis e orientados para o futuro.</p>
 
     <p>Dessa forma, a formação em RH digital não apenas enriqueceu meu repertório profissional, mas também solidificou meu compromisso em promover a inovação e a eficácia nos processos de Recursos Humanos. Este conhecimento é uma ferramenta valiosa para enfrentar os desafios em constante evolução do cenário empresarial e contribuir ativamente para o sucesso contínuo da Business Diversity Consultoria Empresarial SA.</p>
 
-    </div>
+  </div>
+</div>
+
+    <button id="btnh1" class="btn-primary" type="button" onclick="mostrarTexto()">>>>></button>
+    <script>
+      function mostrarTexto() {
+        var ap = document.getElementById("hide");
+        if (ap.style.display === "none") {
+          ap.style.display = "block";
+        } else {
+          ap.style.display = "none";
+        }
+      }
+
+      </script>
   </body>
   </html>
   

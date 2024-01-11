@@ -43,6 +43,22 @@
   --font-family-sans-serif: "Source Sans Pro", sans-serif;
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
+#hide{
+  display: none;
+}
+#hide2{
+  display: none;
+}
+#voltr{
+margin-bottom: 30px;
+}
+#btnh1{
+  margin: auto;
+}
+
+.size{
+  max-width:1250px;
+}
 
 *,
 *::before,
