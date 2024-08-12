@@ -56,14 +56,27 @@ margin-left: 10px;
 margin-bottom: 30px;
 margin-left: 20px;
 }
+.hover-blackfull{
+  text-align: justify;
+  padding-right: 15px;
+}
+
+#hover-blackfull{
+    text-align: justify;
+    padding-right: 15px;
+}
 .hover-blackfull:hover{
   color: black;
   transition-duration: 1.0s;
+  text-align: justify;
+  padding-right: 15px;
 }
 
 #hover-blackfull:hover{
   color: black;
   transition-duration: 1.0s;
+    text-align: justify;
+    padding-right: 15px;
 }
 
 #btnh1{
